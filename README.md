@@ -11,7 +11,7 @@
 
 - 🌱 I'm currently learning **Spring Boot, React JS Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ACOM-up?tab=repositories](https://github.com/ACOM-up?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/AroshaObeysekara?tab=repositories](https://github.com/AroshaObeysekara?tab=repositories)
 
 - 💬 Ask me about **Java, Spring Boot**
 
