@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, Spring Boot**
 
-- 👨‍💻 Visit my portfolio 
+- 👨‍💻 Visit my portfolio at https://AroshaObeysekara.github.io/portfolio-web
 
 - 📫 How to reach me **aroshaobeysekara@gmail.com**
 
